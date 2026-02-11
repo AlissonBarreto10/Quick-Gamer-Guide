@@ -68,3 +68,48 @@ O **Quick Gamer Guide (QGG)** é uma plataforma web desenvolvida do zero com o o
 ---
 
 ## 📂 Estrutura do Projeto
+qgg/
+│
+├── backend/
+│ ├── server.js # Servidor Express
+│ ├── database.db # Banco de dados SQLite
+│ └── routes/ # Rotas da API
+│
+├── frontend/
+│ ├── index.html # Página principal
+│ ├── style.css # Estilos
+│ └── script.js # Lógica do frontend
+│
+└── README.md # Este arquivo
+
+---
+
+## 🎓 Aprendizados
+
+Este projeto me ensinou:
+
+- **Desenvolvimento Full-Stack:** Como frontend e backend se comunicam
+- **APIs RESTful:** Criação, documentação e consumo
+- **Banco de Dados:** Modelagem, queries e otimização
+- **Segurança Web:** CORS, CSP e boas práticas
+- **Debugging:** Resolução de problemas complexos
+
+---
+
+## 👨‍💻 Autor
+
+**Alisson Barreto**
+
+- LinkedIn: [linkedin.com/in/alisson-barreto-6b0090257](https://www.linkedin.com/in/alisson-barreto-6b0090257/ )
+- GitHub: [github.com/AlissonBarreto10](https://github.com/AlissonBarreto10 )
+- E-mail: alissonjbsoares@hotmail.com
+
+---
+
+## 📝 Licença
+
+Este projeto foi desenvolvido para fins educacionais.
+
+---
+
+⭐ **Se você gostou deste projeto, deixe uma estrela!**
